@@ -1,0 +1,42 @@
+Game{ id:74c97ee6-1392-4c93-b22d-f6cd03415986,
+field:
+# #
+# #
+}
+Please, choose action as: #action;row;column (for example, 1;0;0):
+1) Click cell
+2) Mark mine
+1;0;0
+Game{ id:74c97ee6-1392-4c93-b22d-f6cd03415986,
+field:
+2 #
+# #
+}
+Please, choose action as: #action;row;column (for example, 1;0;0):
+1) Click cell
+2) Mark mine
+2;0;1
+Game{ id:74c97ee6-1392-4c93-b22d-f6cd03415986,
+field:
+2 *
+# #
+}
+Please, choose action as: #action;row;column (for example, 1;0;0):
+1) Click cell
+2) Mark mine
+2;1;0
+Game{ id:74c97ee6-1392-4c93-b22d-f6cd03415986,
+field:
+2 *
+* #
+}
+Please, choose action as: #action;row;column (for example, 1;0;0):
+1) Click cell
+2) Mark mine
+1;1;1
+You have won
+Game{ id:74c97ee6-1392-4c93-b22d-f6cd03415986,
+field:
+2 *
+* 2
+}
